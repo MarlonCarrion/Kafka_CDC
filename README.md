@@ -1,6 +1,6 @@
 # Change Data Capture with Debezium, PostgreSQL and MariaDB
 
-This project sets up a **Debezium connector** to capture changes in a **PostgreSQL** database and stream them to **Kafka**.
+This project sets up a **Debezium connector** to capture changes in a **PostgreSQL** database and stream them to **Kafka** and send to MariaDB.
 
 ## 📌 Connector Configuration
 
